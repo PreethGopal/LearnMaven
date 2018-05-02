@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="72556" started-at="2018-04-07T06:57:34Z" finished-at="2018-04-07T06:58:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="72556" started-at="2018-04-07T06:57:34Z" finished-at="2018-04-07T06:58:46Z">
+      <class name="week5.day1.CreateLeadJunit">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLeadJunit@136e911]" name="login" is-config="true" duration-ms="18283" started-at="2018-04-07T12:27:35Z" finished-at="2018-04-07T12:27:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLeadJunit@136e911]" name="createLead" duration-ms="20615" started-at="2018-04-07T12:27:53Z" data-provider="fetchData" finished-at="2018-04-07T12:28:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Leaf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Preethi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Gopal]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[preethi@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[25884458]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="close()[pri:0, instance:week5.day1.CreateLeadJunit@136e911]" name="close" is-config="true" duration-ms="460" started-at="2018-04-07T12:28:14Z" finished-at="2018-04-07T12:28:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLeadJunit@136e911]" name="login" is-config="true" duration-ms="13837" started-at="2018-04-07T12:28:14Z" finished-at="2018-04-07T12:28:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://www.leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:week5.day1.CreateLeadJunit@136e911]" name="createLead" duration-ms="14690" started-at="2018-04-07T12:28:28Z" data-provider="fetchData" finished-at="2018-04-07T12:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test Leaf 123]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Charu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[charu@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[99713655]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="close()[pri:0, instance:week5.day1.CreateLeadJunit@136e911]" name="close" is-config="true" duration-ms="3786" started-at="2018-04-07T12:28:43Z" finished-at="2018-04-07T12:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- week5.day1.CreateLeadJunit -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
